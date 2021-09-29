@@ -364,6 +364,8 @@ set(gcf,'color','w'); %set background colour to white
 function [twenty5, Median, Mean, seventy5, deviat, CoV,...
  upper, lower, total_points] = StatisticS(values)
 
+% This function REQUIRES the 'Statistics and Machine Learning Toolbox' installed.
+
 % twenty5 = 25% percentile of the data
 % seventy5 = 75% percentile
 % deviat = standard deviation. Default option used (N-1, not N)
