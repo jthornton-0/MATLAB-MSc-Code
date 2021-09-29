@@ -3,12 +3,13 @@
 % concentration component of real-world conditions
 % Prepared for: [REDACTED]
 % Submitted on: 05/10/2020
-% Prepared by: [REDACTED]
-% Student ID: [REDACTED]
-% Module: MSc Project
-% Module code: [REDACTED]
+% Prepared by:  [REDACTED]
+% Student ID:   [REDACTED]
+% Module:       MSc Project
+% Module code:  [REDACTED]
 
 %% MATLAB stuff
+% This programme REQUIRES the 'Statistics and Machine Learning Toolbox' be installed.
 clc; clear all;     % Standard MATLAB
 t_start = tic;      % Starts timer for overall programme
 
