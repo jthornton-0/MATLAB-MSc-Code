@@ -826,6 +826,7 @@ for k = 1:numel(fn)
         end
     end
 end
+
 %% Cumulative inhibition with individual tallys
 
 %Graphs and calculates the cumulative inhibition. Most of it is self
