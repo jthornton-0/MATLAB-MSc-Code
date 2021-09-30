@@ -9,7 +9,7 @@
 % Module code:  [REDACTED]
 
 %% MATLAB stuff
-% This programme REQUIRES the 'Statistics and Machine Learning Toolbox' be installed.
+% This programme REQUIRES the 'Statistics and Machine Learning Toolbox'.
 clc; clear all;     % Standard MATLAB
 t_start = tic;      % Starts timer for overall programme
 
